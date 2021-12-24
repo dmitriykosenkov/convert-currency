@@ -1,0 +1,16 @@
+.navbarContainer {
+   display: flex;
+   justify-content: space-between;
+   padding-top: 24px;
+   margin-bottom: 110px;
+}
+.btn {
+   padding: 19px 48px;
+   font-size: 1.4rem;
+   background-color: #d00000;
+}
+.active {
+   padding: 19px 48px;
+   font-size: 1.4rem;
+   background-color: transparent;
+}

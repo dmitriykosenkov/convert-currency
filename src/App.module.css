@@ -1,0 +1,18 @@
+.wrapper {
+}
+.bgScreen{
+    height:100%;
+    position:fixed;
+    width:100%;
+    top:0;
+    left:0;
+    -webkit-filter: brightness(20%);
+  filter: brightness(20%);
+}
+.container{
+   position: relative;
+   z-index: 3;
+   max-width: 1000px;
+   margin: 0 auto;
+   min-height: 100vh;
+}
